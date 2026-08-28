@@ -11,6 +11,17 @@ description: 'Carlsmed (Nasdaq: CARL) is a Carlsbad, California medical technolo
   under ISO 13485 and MDSAP certification and completed its IPO in July 2025. It publishes
   no public developer program, API documentation, or machine-readable API contract.'
 url: https://raw.githubusercontent.com/api-evangelist/carlsmed/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://carlsmed.com/wp-content/uploads/2024/10/Frame-3-1.png
 x-type: company
 x-source: harvest:secondary-market
